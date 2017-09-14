@@ -1,2 +1,0 @@
-model_checkpoint_path: "train_net_by_pain_face.ckpt"
-all_model_checkpoint_paths: "train_net_by_pain_face.ckpt"
